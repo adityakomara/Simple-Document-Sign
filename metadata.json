@@ -1,0 +1,5 @@
+{
+  "name": "Simple Document Sign",
+  "description": "An easy-to-use web application to upload, view, and sign PDF or other documents with a simple, drawn signature. Approve documents quickly and efficiently.",
+  "requestFramePermissions": []
+}
